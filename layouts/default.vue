@@ -106,6 +106,11 @@ export default {
           icon: 'mdi-chart-bubble',
           title: 'Inspire',
           to: '/inspire'
+        },
+        {
+          icon: 'mdi-chart-bubble',
+          title: 'Test in VueJs',
+          to: '/testPage'
         }
       ],
       miniVariant: false,
